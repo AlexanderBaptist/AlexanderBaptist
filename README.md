@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @AlexanderBaptist
-- 👀 I’m interested in Family, Sports(Lakers, Rams, Dodgers), Traveling
-- 🌱 I’m currently learning Programming languages R, and SQL
-- 💞️ I’m looking to collaborate on anything that will get me a remtote job
-- 📫 How to reach me  email me @ Alexanderbaptist@gmail.com
+<h1 align="center">Hi 👋, I'm Alexander Baptist</h1>
+<h3 align="center">A Business Intelligence Analyst</h3>
+
+- 🔭 I've recently completed working on [Sprint 5 Project](https://public.tableau.com/views/Sprint5project_17168504706360/StoryDraft?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+- 🌱 I’m currently learning **At Tripleten, Business Intelligence Analytics**
+
+- 🔭 I've also recently completed [Sprint 3 Business Analytics Project](https://docs.google.com/spreadsheets/d/1AWuhMIbaVD6SCRQ9rdlxAhDECxP91qoB9GEvODbCwtk/edit?usp=sharing)
+
+- 👨‍💻 All of my projects are available at [https://github.com/AlexanderBaptist](https://github.com/AlexanderBaptist)
+
+- 📫 How to reach me **Alexanderbaptist@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1rGV2DAnT1fjrJmccrPwmrmTFaw3qIUZcrCC5DYTlacA/edit?usp=sharing](https://docs.google.com/document/d/1rGV2DAnT1fjrJmccrPwmrmTFaw3qIUZcrCC5DYTlacA/edit?usp=sharing)
+
+- ⚡ I'm interested in **Family, Sports(Lakers, Rams, Dodgers), and Traveling**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alexander-baptist1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-baptist1" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!---
 AlexanderBaptist/AlexanderBaptist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
