@@ -3,11 +3,11 @@
 
 - 🔭 I've recently completed working on [Sprint 5 Project](https://public.tableau.com/views/Sprint5project_17168504706360/StoryDraft?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-- 🌱 I’m currently learning **At Tripleten, Business Intelligence Analytics**
+- 🌱 I've recently graduated from **Tripleten, Business Intelligence Analytics**
 
 - 🔭 I've also recently completed [Sprint 3 Business Analytics Project](https://docs.google.com/spreadsheets/d/1AWuhMIbaVD6SCRQ9rdlxAhDECxP91qoB9GEvODbCwtk/edit?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AlexanderBaptist](https://github.com/AlexanderBaptist)
+- 👨‍💻 All of my projects are available at [Tableau Projects](https://public.tableau.com/app/profile/alexander.baptist3016/vizzes)
 
 - 📫 How to reach me **Alexanderbaptist@gmail.com**
 
