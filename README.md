@@ -5,7 +5,7 @@
 
 - 🌱 I've recently graduated from **Tripleten, Business Intelligence Analytics**
 
-- 🔭 I've also recently completed [Sprint 3 Business Analytics Project](https://docs.google.com/spreadsheets/d/1AWuhMIbaVD6SCRQ9rdlxAhDECxP91qoB9GEvODbCwtk/edit?usp=sharing)
+- 🔭 I've also recently completed [Sprint 3 Project](https://docs.google.com/spreadsheets/d/1AWuhMIbaVD6SCRQ9rdlxAhDECxP91qoB9GEvODbCwtk/edit?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [Tableau Projects](https://public.tableau.com/app/profile/alexander.baptist3016/vizzes)
 
