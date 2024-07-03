@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alexander Baptist</h1>
 <h3 align="center">A Business Intelligence Analyst</h3>
 
-- 🔭 I've recently completed working on [Sprint 5 Project](https://public.tableau.com/views/Sprint5project_17168504706360/StoryDraft?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+- 🔭 I've recently completed working on [Project 5 , Saving SuperStore](https://public.tableau.com/views/SavingSuperstore_17199412450510/StoryDraft?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 - 🌱 I've recently graduated from **Tripleten, Business Intelligence Analytics**
 
-- 🔭 I've also recently completed [Sprint 3 Project](https://docs.google.com/spreadsheets/d/1AWuhMIbaVD6SCRQ9rdlxAhDECxP91qoB9GEvODbCwtk/edit?usp=sharing)
+- 🔭 I've also recently completed [Project 3, Views into Purchases](https://docs.google.com/spreadsheets/d/1AWuhMIbaVD6SCRQ9rdlxAhDECxP91qoB9GEvODbCwtk/edit?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [Tableau Projects](https://public.tableau.com/app/profile/alexander.baptist3016/vizzes)
 
